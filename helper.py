@@ -1,4 +1,4 @@
-pets = {
+crew = {
     'crewmates': [
         {
             'name': 'Luffy',
